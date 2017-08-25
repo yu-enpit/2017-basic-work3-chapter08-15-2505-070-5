@@ -1,4 +1,4 @@
-package com.example.yu_enpit.myscheduler;
+package com.example.yu_enpit.myscheduler;//再提出用にコメントを追加
 
 import android.app.Application;
 

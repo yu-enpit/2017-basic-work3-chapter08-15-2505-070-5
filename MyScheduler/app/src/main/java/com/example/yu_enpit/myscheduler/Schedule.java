@@ -1,5 +1,5 @@
 package com.example.yu_enpit.myscheduler;
-
+//再提出用にコメントを追加
 import java.util.Date;
 
 import io.realm.RealmObject;
